@@ -1,0 +1,14 @@
+*  {
+    border: 1px solid;
+    border-color: black;
+}
+
+.nav_bar_flex{
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+img{
+    width: 35px;
+}
